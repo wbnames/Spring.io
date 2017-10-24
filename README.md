@@ -1,7 +1,5 @@
 ## JavaWeb项目之客户管理系统 
 
-## 项目介绍
-详细讲解请点击这里前往我的博客[客户管理系统项目](http://codingxiaxw.cn/2016/10/25/25-JavaWeb%E9%A1%B9%E7%9B%AE%E4%B9%8B%E5%AE%A2%E6%88%B7%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/)  
 
 ### 功能介绍
 
